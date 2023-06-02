@@ -5,7 +5,7 @@
 - 📫 How to reach me ... minjunn.kim@mail.utoronto.ca
 - Personal Website: minjunkim.ca -->
 
-### Hi there 👋 I am [Divyansh Kachchhava](https://divyanshuoft.github.io/https-divyansh.github.io-/)! 👨‍💻
+### Hi there 👋 I am [Minjun Kim](https://minjunkim.ca)! 👨‍💻
 <p align="center">
   <img src="https://media2.giphy.com/avatars/mwooodward/cIe5MvDvX4Vc.gif" alt="Example GIF" width="20%" style="display: block; margin: auto;">
 </p>
@@ -18,7 +18,7 @@ I'm [Minjun Kim](https://minjunkim.ca), a third-year student at [University of T
 - 💞️ I’m looking to collaborate on cs projects focusing on web development
 - 📫 my email is minjunn.kim@mail.utoronto.ca
 - 🔭 I’m currently learning game development using Assembly (Yes, you heard it right! I'm making one of those 80s n 90s old fashion game)
-- My portfolio website: https://divyanshuoft.github.io/https-divyansh.github.io-/
+- My portfolio website: https://minjunkim.ca
 - View my 📝 [Resume](https://www.minjunkim.ca/Resume.pdf)
 
 As a student of Computer Science at the esteemed University of Toronto, I am an accomplished software engineer specializing in the intricate art of Software Engineering. I am a dynamic and accomplished software developer, armed with a deep understanding of object-oriented programming and broad experience in Android and web development.
