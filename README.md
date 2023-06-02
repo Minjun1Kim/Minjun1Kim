@@ -44,9 +44,9 @@ My relentless pursuit of new knowledge and projects has earned me a reputation a
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div><br>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Divyanshuoft&theme=dark&background=000000)](https://git.io/streak-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=Divyanshuoft&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Minjun1Kim&theme=dark&background=000000)](https://git.io/streak-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=Minjun1Kim&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshuoft&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minjun1Kim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Divyanshuoft.Divyanshuoft)
+<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Divyanshuoft.Divyanshuoft) -->
