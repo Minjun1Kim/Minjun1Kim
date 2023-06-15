@@ -23,7 +23,7 @@ I'm [Minjun Kim](https://minjunkim.ca), a third-year student at [University of T
 
 As a student of Computer Science at the esteemed University of Toronto, I am an accomplished software engineer specializing in the intricate art of Software Engineering. I am a dynamic and accomplished software developer, armed with a deep understanding of object-oriented programming and broad experience in Android and web development.
 
-My relentless pursuit of new knowledge and projects has earned me a reputation as a versatile and industrious individual. My hobbies, including skiing, ice-skating, and air-rifle shooting, showcase my versatility and leadership potential. I am destined for greatness in the realm of technology.
+My relentless pursuit of new knowledge and projects has earned me a reputation as a versatile and industrious individual. My hobbies, including basketball, football, and training, showcase my versatility and leadership potential. I am destined for greatness in the realm of technology.
 
 **Languages and Tools:** 
 <div>
