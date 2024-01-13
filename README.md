@@ -7,17 +7,17 @@
 
 ### Hi there 👋 I am [Minjun Kim](https://minjunkim.ca)! 👨‍💻
 <p align="center">
-  <img src="https://media2.giphy.com/avatars/mwooodward/cIe5MvDvX4Vc.gif" alt="Example GIF" width="20%" style="display: block; margin: auto;">
+  <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" alt="Example GIF" width="20%" style="display: block; margin: auto;">
 </p>
 
 
-I'm [Minjun Kim](https://minjunkim.ca), a third-year student at [University of Toronto](https://www.utoronto.ca/) specializing in Computer Science and under the software engineering stream. My technology stack popular programming languages such as Python, Java, C++ and have more than 3 years of experience in mobile developent and web development. As a software developer, my vision is to create innovative solutions that positively impact the world by leveraging cutting-edge technology and my expertise in software engineering
+I'm [Minjun Kim](https://minjunkim.ca), a third-year student at [University of Toronto](https://www.utoronto.ca/) specializing in Computer Science with the Software Engineering stream. I am proficient in languages such as Python, Java, C/C++. As a software developer, my vision is to create innovative solutions that positively impact the world by leveraging cutting-edge technology and my expertise in software engineering
 
-- 👀 I’m interested in web and android development
-- 🌱 I’m a student studying computer science under the software enginerring stream at University of Toronto
+- 👀 I’m interested in web and mobile app development
+- 🌱 I’m a 3rd-year student studying computer science under the software enginerring stream at University of Toronto
 - 💞️ I’m looking to collaborate on cs projects focusing on web development
 - 📫 my email is minjunn.kim@mail.utoronto.ca
-- 🔭 I’m currently learning game development using Assembly (Yes, you heard it right! I'm making one of those 80s n 90s old fashion game)
+- 🔭 I’m currently TAing CSCC01 - Intro to Software Engineering and MATA29 - Calculus 1.
 - My portfolio website: https://minjunkim.ca
 - View my 📝 [Resume](https://www.minjunkim.ca/Resume.pdf)
 
