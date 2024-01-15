@@ -19,7 +19,8 @@ I'm [Minjun Kim](https://minjunkim.ca), a third-year student at [University of T
 - 📫 my email is minjunn.kim@mail.utoronto.ca
 - 🔭 I’m currently TAing CSCC01 - Intro to Software Engineering and MATA29 - Calculus 1.
 - My portfolio website: https://minjunkim.ca
-- View my 📝 [Resume](https://www.minjunkim.ca/Resume.pdf)
+  
+<!-- - View my 📝 [Resume](https://www.minjunkim.ca/Resume.pdf) -->
 
 As a student of Computer Science at the esteemed University of Toronto, I am an accomplished software engineer specializing in the intricate art of Software Engineering. I am a dynamic and accomplished software developer, armed with a deep understanding of object-oriented programming and broad experience in Android and web development.
 
